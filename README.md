@@ -14,6 +14,8 @@
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img alt ="MS SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </p>
+<p> Want to get to know me better?<br></br>
+https://calendly.com/jenningsvisions/30min
 
 
 
