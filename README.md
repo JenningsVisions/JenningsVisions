@@ -15,8 +15,9 @@
 <img alt ="MS SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </p>
 <p> Want to get to know me better?<br></br>
-<a href"https://calendly.com/jenningsvisions/30min">
+<a href="https://calendly.com/jenningsvisions/30min">
 <img alt="calender 2022" src="https://user-images.githubusercontent.com/61357154/188510700-9c6b9cbc-de1b-4d2a-8ba5-8c4b4173f2df.jpeg"a>
+</p>
 
 
 
