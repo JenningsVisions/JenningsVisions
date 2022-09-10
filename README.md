@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JavaScript, Python, React, Liquid, and Cybersecurity
 - 👯 I’m looking to collaborate on Raspberry Pi projects
 - 💬 Ask me about Shopify store setups, Shopify theme customizations
-- 📫 How to reach me: <a href="jenningsvisions.dev">JenningsVisions</a>
+- 📫 How to reach me: <a href="https://www.jenningsvisions.dev/">JenningsVisions</a>
 <p>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
